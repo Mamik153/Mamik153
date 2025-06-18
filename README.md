@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Mamik153
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning MERN stack
-- 📫 How to reach me email: mamikdas153@gmail.com
+# 💫 About Me:
+💻 Senior Frontend Developer | React ⚛️ | Next.js ⚡ | AI x UI Enthusiast 🤖<br><br>🔭 I’m currently working on:<br>- Building real-time, AI-powered platforms at United We Care — think multilingual chat, async video modules, and blazing fast SSR interfaces.<br>- A personal portfolio dashboard with full CRUD features and seamless UX (spoiler: it’s prettier than my lunchbox).<br><br>👯 I’m looking to collaborate on:<br>- Open-source frontend tools, component libraries, or AI-integrated UIs.<br>- Projects pushing the boundaries of performance, multimodal interfaces, or just weirdly satisfying dev tooling.<br><br>🤝 I’m looking for help with:<br>- Perfecting frontend testing (learning Playwright).<br>- Keeping my Lighthouse score above my caffeine intake. ☕<br><br>🌱 I’m currently learning:<br>- Advanced testing workflows (Playwright, Cypress) and performance profiling at scale.<br>- Better ways to talk to LLMs (and maybe even people).<br><br>💬 Ask me about:<br>- Real-time UX with WebSockets, async polling, and inference pipelines.<br>- Frontend architecture, component design, or the joy of atomic + Shadcn UI.<br>- Turning complex AI workflows into simple, beautiful interfaces.<br><br>⚡ Fun fact:<br>I once made a multilingual, AI-powered dashboard talk to itself. It’s not Skynet (yet). 😄<br><br>> Portfolio: [my-portfolio-mamik153.vercel.app](https://my-portfolio-mamik153.vercel.app/)  <br>> Connect: [LinkedIn](https://www.linkedin.com/in/mamik-das-6033a8139/) • [GitHub](https://github.com/Mamik153) • [Email me](mailto:mamikdas153@gmail.com)
 
-<!---
-Mamik153/Mamik153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mamik Das) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Mamik153) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamikdas153@gmail.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mamik153&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mamik153&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamik153&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mamik153&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mamik153&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
