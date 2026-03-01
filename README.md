@@ -11,10 +11,10 @@ Not wrappers around APIs.
 Production-grade systems built for scale, clarity, and speed.
 
 I operate at the intersection of:
-	•	Applied AI
-	•	Distributed systems
-	•	Product architecture
-	•	Human-computer interaction
+	• Applied AI
+	• Distributed systems
+	• Product architecture
+	• Human-computer interaction
 
 My work turns probabilistic intelligence into deterministic user experiences.
 
@@ -29,10 +29,10 @@ My work turns probabilistic intelligence into deterministic user experiences.
 LLMs hallucinate. Systems must not.
 
 Every AI interaction is wrapped in:
-	•	Typed contracts
-	•	Retrieval grounding
-	•	Structured output schemas
-	•	Observable execution paths
+	• Typed contracts
+	• Retrieval grounding
+	• Structured output schemas
+	• Observable execution paths
 
 If it can’t be evaluated, it can’t be shipped.
 
@@ -59,10 +59,10 @@ Architecture determines survival.
 
 I design around:
 
-	•	Failure modes
-	•	Horizontal extensibility
-	•	Domain boundaries
-	•	Event-driven workflows
+	• Failure modes
+	• Horizontal extensibility
+	• Domain boundaries
+	• Event-driven workflows
 
 The goal is not code.
 The goal is controlled complexity.
@@ -75,12 +75,12 @@ The goal is controlled complexity.
 
 A research-grade assistant that:
 
-	•	Ingests papers from ArXiv
-	•	Extracts + chunks PDFs
-	•	Embeds into Supabase VectorDB
-	•	Generates structured JSON (not prose)
-	•	Streams data to UI through SSE
-	•	Renders deterministic interface states
+	• Ingests papers from ArXiv
+	• Extracts + chunks PDFs
+	• Embeds into Supabase VectorDB
+	• Generates structured JSON (not prose)
+	• Streams data to UI through SSE
+	• Renders deterministic interface states
 
 This is not “AI chat.”
 This is AI-backed knowledge infrastructure.
@@ -88,44 +88,44 @@ This is AI-backed knowledge infrastructure.
 <br/><br/>
 
 ## ▸ Real-Time AI Platform
-	•	Multilingual streaming chat
-	•	Async inference workers
-	•	WebSocket-driven UI transitions
-	•	State modeled as finite state machines
-	•	Schema-validated contracts across layers
+	• Multilingual streaming chat
+	• Async inference workers
+	• WebSocket-driven UI transitions
+	• State modeled as finite state machines
+	• Schema-validated contracts across layers
 
 Designed for scalability, not novelty.
 
 <br/><br/>
 
 ## ▸ Full-Stack Product Dashboard
-	•	Schema-first validation
-	•	Optimistic UI with rollback guarantees
-	•	Entity-relationship modeling in UI
-	•	Edge deployment constraints
-	•	Performance budgets enforced
+	• Schema-first validation
+	• Optimistic UI with rollback guarantees
+	• Entity-relationship modeling in UI
+	• Edge deployment constraints
+	• Performance budgets enforced
 
 Built as if it had 10x traffic tomorrow.
 
 <br/><br/>
 
 # 🧬 Current Deep Focus
-	•	RAG evaluation strategies
-	•	LLM orchestration and routing
-	•	Distributed inference deployment
-	•	Performance profiling under load
-	•	Testing strategies for AI-integrated systems
+	• RAG evaluation strategies
+	• LLM orchestration and routing
+	• Distributed inference deployment
+	• Performance profiling under load
+	• Testing strategies for AI-integrated systems
 
 Because AI products fail at the seams — not at the model.
 
 <br/><br/>
 
 # ⚡ What I Actually Optimize For
-	•	Technical leverage
-	•	Speed of iteration
-	•	Architectural clarity
-	•	Failure containment
-	•	Product optionality
+	• Technical leverage
+	• Speed of iteration
+	• Architectural clarity
+	• Failure containment
+	• Product optionality
 
 The future belongs to builders who understand both machine intelligence and system economics.
 
