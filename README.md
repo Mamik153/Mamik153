@@ -2,7 +2,7 @@
 
 ## Technical Architect
 
-**AI-Native Systems • Product Infrastructure • High-Performance Interfaces**
+### *AI-Native Systems • Product Infrastructure • High-Performance Interfaces*
 
 I design and build AI-powered systems where frontend, backend, and inference layers behave as one coherent machine.
 
@@ -77,7 +77,7 @@ A research-grade assistant that:
 
 	•	Ingests papers from ArXiv
 	•	Extracts + chunks PDFs
-	•	Embeds into Qdrant (RAG architecture)
+	•	Embeds into Supabase VectorDB
 	•	Generates structured JSON (not prose)
 	•	Streams data to UI through SSE
 	•	Renders deterministic interface states
