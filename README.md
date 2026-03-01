@@ -58,6 +58,7 @@ Features increase surface area.
 Architecture determines survival.
 
 I design around:
+
 	•	Failure modes
 	•	Horizontal extensibility
 	•	Domain boundaries
@@ -73,6 +74,7 @@ The goal is controlled complexity.
 ## ▸ AI Research Infrastructure
 
 A research-grade assistant that:
+
 	•	Ingests papers from ArXiv
 	•	Extracts + chunks PDFs
 	•	Embeds into Qdrant (RAG architecture)
