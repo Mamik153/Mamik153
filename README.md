@@ -2,7 +2,7 @@
 
 **Forward Deployed Engineer** — I take LLM products from prototype to production for enterprise customers.
 
-5+ years building production AI systems and full-stack platforms. I work end-to-end: designing RAG pipelines and multi-agent workflows, integrating LLMs (Claude, GPT-4o, Gemini) into real products, and shipping the React/Next.js and FastAPI systems around them.
+5+ years building production AI systems and full-stack platforms. I work end-to-end: designing RAG pipelines and multi-agent workflows, integrating LLMs (Claude, Open AI, Gemini and more) into real products, and shipping the React/Next.js and FastAPI systems around them.
 
 <br/>
 
